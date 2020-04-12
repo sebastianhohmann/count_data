@@ -52,6 +52,8 @@ by Sachin Date](https://towardsdatascience.com/an-illustrated-guide-to-the-poiss
 
 - [CrossValidated: Nice Explanation of Overdispersion, zero inflation etc.](https://stats.stackexchange.com/questions/132796/overdispersion-in-poisson-glm)
 
+- [Analysisfactor: Simple example for Poisson regression in R](https://www.theanalysisfactor.com/generalized-linear-models-in-r-part-6-poisson-regression-count-variables/)
+
 **Negative Binomial Regression**
 
 - [Nice Towardsdatascience post on fitting Negative Binommial regression in python - 
