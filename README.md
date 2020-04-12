@@ -54,6 +54,10 @@ by Sachin Date](https://towardsdatascience.com/an-illustrated-guide-to-the-poiss
 
 - [Analysisfactor: Simple example for Poisson regression in R](https://www.theanalysisfactor.com/generalized-linear-models-in-r-part-6-poisson-regression-count-variables/)
 
+- [Chapter on Poisson Regression from Broadening Your Statistical Horizons - Generalized Linear Models and Multilevel Models by Julie Legler and Paul Roback](https://bookdown.org/roback/bookdown-bysh/ch-poissonreg.html)
+
+- [Poisson Regression Lesson from PennState STAT 504](https://online.stat.psu.edu/stat504/node/169/)
+
 **Negative Binomial Regression**
 
 - [Nice Towardsdatascience post on fitting Negative Binommial regression in python - 
