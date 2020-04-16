@@ -58,11 +58,14 @@ by Sachin Date](https://towardsdatascience.com/an-illustrated-guide-to-the-poiss
 
 - [Poisson Regression Lesson from PennState STAT 504](https://online.stat.psu.edu/stat504/node/169/)
 
+- [ZIP example from UCLA Statistical Consulting](https://stats.idre.ucla.edu/r/dae/zip/)
+
 **Negative Binomial Regression**
 
 - [Nice Towardsdatascience post on fitting Negative Binommial regression in python - 
 by Sachin Date](https://towardsdatascience.com/negative-binomial-regression-f99031bb25b4)
 
+- [ZINB example from UCLA Statistical Consulting](https://stats.idre.ucla.edu/r/dae/zinb/)
 
 
 
